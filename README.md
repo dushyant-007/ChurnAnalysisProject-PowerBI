@@ -6,4 +6,4 @@ This repository contains materials including:
 2. Exploratory Data Analysis (EDA)
 3. Power BI Dashboard Creation
 
-
+This work is built on top the tutorial present at pik1989/ChurnAnalysisProject-PowerBI.
